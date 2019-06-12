@@ -11,5 +11,5 @@ build:
 
 integrations:
   hub:
-    - integrationName: ECRKeysIntegration
+    - integrationName: 'ECR Keys Integration'
       type: ecr
